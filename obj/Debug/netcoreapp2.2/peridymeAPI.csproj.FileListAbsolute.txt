@@ -1,0 +1,14 @@
+C:\Users\yshin\peridymeAPI\bin\Debug\netcoreapp2.2\peridymeAPI.deps.json
+C:\Users\yshin\peridymeAPI\bin\Debug\netcoreapp2.2\peridymeAPI.runtimeconfig.json
+C:\Users\yshin\peridymeAPI\bin\Debug\netcoreapp2.2\peridymeAPI.runtimeconfig.dev.json
+c:\Users\yshin\peridymeAPI\bin\Debug\netcoreapp2.2\peridymeAPI.dll
+c:\Users\yshin\peridymeAPI\bin\Debug\netcoreapp2.2\peridymeAPI.pdb
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.csprojAssemblyReference.cache
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.csproj.CoreCompileInputs.cache
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.RazorAssemblyInfo.cache
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.RazorAssemblyInfo.cs
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.AssemblyInfoInputs.cache
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.AssemblyInfo.cs
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.RazorTargetAssemblyInfo.cache
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.dll
+c:\Users\yshin\peridymeAPI\obj\Debug\netcoreapp2.2\peridymeAPI.pdb
